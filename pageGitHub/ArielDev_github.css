@@ -1,0 +1,43 @@
+body{
+	background: : #FFF6DC;
+	color: #4A2F1D;
+	font-family: Georgia, serif;
+	max-width: 700px;
+	margin: auto;
+	padding: 16px;
+	line-height: 1.6;
+}
+
+h1{
+	text-decoration: underline;
+}
+
+h1, h2, h3{
+	color: #1E6B35;
+}
+
+h2{
+	border-bottom: 3px solid #B8402A;
+	padding-bottom: 4px;
+}
+
+a{
+	color: #B8402A;
+}
+
+em{
+	font-style: oblique;
+}
+
+.image {
+	width: 400px;
+	height: 300px;
+	l
+}
+
+.intro{
+	font-weight: bold;
+}
+.conteneur{
+	display: flex;
+}
